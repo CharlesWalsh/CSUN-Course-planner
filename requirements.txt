@@ -12,7 +12,7 @@ mccabe==0.6.1
 oauthlib==2.0.7
 psycopg2==2.7.4
 pycparser==2.18
-PyJWT==1.6.1
+PyJWT==2.4.0
 pylint==1.8.4
 python-social-auth==0.3.6
 python3-openid==3.1.0
